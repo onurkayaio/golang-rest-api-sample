@@ -1,4 +1,4 @@
-# golang-rest-a pi-sample : Golang GIN Framework REST Api sample with JWT, Gorm, Testify.
+# Golang GIN Framework REST Api sample with JWT, Gorm, Testify.
 
 ## Overview [![GoDoc](https://godoc.org/github.com/onurkayaio/golang-rest-api-sample?status.svg)](https://godoc.org/github.com/onurkayaio/golang-rest-api-sample)
 
